@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nturled.github.io/sitemap.html.gz
+Sitemap: https://nturled.github.io/app/sitemap.html.gz
+Sitemap: https://nturled.github.io/assets/sitemap.html.gz
+Sitemap: https://nturled.github.io/css/sitemap.html.gz
+Sitemap: https://nturled.github.io/includes/sitemap.html.gz
+Sitemap: https://nturled.github.io/item/sitemap.html.gz
+Sitemap: https://nturled.github.io/src/sitemap.html.gz
